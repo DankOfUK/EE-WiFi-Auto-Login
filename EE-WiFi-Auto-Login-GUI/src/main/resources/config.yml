@@ -1,0 +1,9 @@
+username: "ee-login@youremail.com"
+password: "yourpassword"
+id_user: "username"
+id_pass: "password"
+id_button: "login-button"
+auto_loop: true
+check_internet: true
+auto_reset: true
+hidden_mode: true
