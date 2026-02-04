@@ -1,0 +1,7 @@
+READ ME
+
+Don't use the chromedriver.exe in the files, you need to get the correct driver that is same as your Chrome installed on your PC
+
+You can find the link here:
+
+https://googlechromelabs.github.io/chrome-for-testing/
